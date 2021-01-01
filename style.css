@@ -1,0 +1,145 @@
+body {
+      text-align: center;
+      background: linear-gradient(#C2185B 25%, #AD1457 50%, #880E4F 25%);
+      background-repeat: no-repeat;
+}
+
+h1 {
+      text-shadow: 2px;
+      font-size: 20px;
+      font-family: Merriweather, serif;
+}
+
+#Myfavouritehobby {
+      padding: 20px;
+      font-size: 18;
+      text-align: inherit;
+}
+
+img {
+      border-radius: 50%;
+      width: 100px;
+}
+
+.menu {
+
+      font-family: sans-serif;
+      position: fixed;
+      cursor: pointer;
+      color: black;
+
+}
+
+.links {
+      float: right;
+      color: #fff;
+      padding-top: 5px;
+      padding-left: 9px;
+      padding-bottom: 5px;
+      padding-right: 9px;
+      font-family: fantasy;
+      font-size: 20px;
+}
+
+img {
+
+      width: 175px;
+      margin-bottom: 50px;
+      border-radius: 50%;
+}
+
+p {
+
+      max-width: 450px;
+      margin: 25px auto;
+      font-size: 17px;
+      line-height: 1.3;
+      background-color: bisque;
+}
+
+.link {
+      display: inline;
+      padding-left: 33px;
+      padding-right: 25px;
+      font-family: fantasy;
+      font-size: 20px;
+
+}
+
+.link:hover {
+      background-color:palevioletred;
+
+      font-size: 25px;
+      text-decoration: underline;
+
+}
+
+iframe {
+      background-color: plum;
+}
+
+h2 {
+      color: darkgoldenrod;
+      background-color: mistyrose;
+      text-decoration-color: gold;
+}
+
+a {
+      text-decoration: none;
+      color: crimson;
+      text-shadow: 2px 2px gamesboro;
+
+
+}
+#mywork a {
+      text-shadow: none !important;
+      text-decoration: underline !important;
+      color: blue !important;
+
+}
+
+
+button {
+      background-color: #4CAF50;
+      /* Green */
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+}
+
+html {
+      scroll-behavior: smooth;
+}
+
+.line {
+      height: 6px;
+      background-color: #000;
+      width: 70px;
+      margin: 8px auto;
+}
+
+#author {
+      border-radius: 20%;
+      border-color: aqua;
+      border-width: 12px;
+      transition: transform .2s;
+      border: 10px solid #AAAAAA
+}
+
+img:hover {
+      transform: scale(0.9);
+}
+
+
+.menu {
+      position: fixed;
+      background: white;
+      width: 100%;
+      margin-top: 0px;
+      top: 0px;
+      z-index: 10;
+}
